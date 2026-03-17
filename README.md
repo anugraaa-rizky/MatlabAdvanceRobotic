@@ -261,3 +261,10 @@ This project demonstrates a robust multi-robot coordination strategy combining:
 - Formation control for coordinated movement
 
 It provides a strong foundation for real-world autonomous multi-robot systems.
+
+---
+
+## 📌 Author
+
+**Anugra Rizky**  
+This project was developed with assistance from AI tools (ChatGPT) for system design, documentation, and debugging support.
